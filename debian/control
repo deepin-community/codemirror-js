@@ -9,7 +9,7 @@ Build-Depends: debhelper-compat (= 13),
                node-acorn (>= 6),
                node-rollup-plugin-buble,
                rollup
-Standards-Version: 4.6.0
+Standards-Version: 4.6.2
 Vcs-Browser: https://salsa.debian.org/js-team/codemirror-js
 Vcs-Git: https://salsa.debian.org/js-team/codemirror-js.git
 Homepage: https://codemirror.net/

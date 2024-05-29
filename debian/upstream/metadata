@@ -1,7 +1,6 @@
 ---
 Archive: GitHub
-Bug-Database: https://github.com/codemirror/codemirror/issues
-Contact: https://github.com/codemirror/codemirror/issues
-Name: codemirror
+Bug-Database: https://github.com/codemirror/codemirror5/issues
+Bug-Submit: https://github.com/codemirror/codemirror5/issues/new
 Repository: https://github.com/codemirror/codemirror.git
-Repository-Browse: https://github.com/codemirror/codemirror
+Repository-Browse: https://github.com/codemirror/codemirror5

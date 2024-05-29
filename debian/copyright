@@ -2,6 +2,7 @@ Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: codemirror
 Source: https://github.com/codemirror/codemirror
  https://registry.npmjs.org/@types/tern
+Upstream-Contact: https://github.com/codemirror/codemirror/issues
 
 Files: *
 Copyright: 2017 Marijn Haverbeke <marijnh@gmail.com>

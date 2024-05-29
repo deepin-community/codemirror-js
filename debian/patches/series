@@ -1,2 +1,2 @@
 requirejs-demo-use-package.patch
-0002-Use-legacy-rollup-plugin-buble.patch
+fix-for-rollup-3.patch

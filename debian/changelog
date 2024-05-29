@@ -1,3 +1,36 @@
+codemirror-js (5.65.0+~cs5.83.9-3) unstable; urgency=medium
+
+  * Declare compliance with policy 4.6.2
+  * Update lintian overrides
+  * Fix clean (Closes: #1043973)
+  * Set upstream metadata fields: Bug-Database, Bug-Submit, Repository-Browse
+
+ -- Yadd <yadd@debian.org>  Mon, 14 Aug 2023 12:53:34 +0400
+
+codemirror-js (5.65.0+~cs5.83.9-2) unstable; urgency=medium
+
+  * Team upload
+
+  [ lintian-brush ]
+  * Set field Upstream-Contact in debian/copyright
+  * Set upstream metadata fields: Bug-Submit
+  * Remove obsolete fields Contact, Name from debian/upstream/metadata
+    (already present in machine-readable debian/copyright)
+
+  [ Yadd ]
+  * Update standards version to 4.6.1, no changes needed.
+  * Add ctype=nodejs to component(s)
+  * Drop 0002-Use-legacy-rollup-plugin-buble patch
+  * Add fix for rollup 3 (Closes: #1022580)
+
+ -- Yadd <yadd@debian.org>  Mon, 24 Oct 2022 18:35:07 +0200
+
+codemirror-js (5.65.0+~cs5.83.9-1) unstable; urgency=medium
+
+  * New upstream version 5.65.0+~cs5.83.9
+
+ -- Gordon Ball <gordon@chronitis.net>  Fri, 28 Jan 2022 11:40:20 +0000
+
 codemirror-js (5.63.3+~cs5.83.9-1) unstable; urgency=medium
 
   * New upstream version 5.63.3+~cs5.83.9
