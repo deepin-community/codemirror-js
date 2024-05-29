@@ -1,1 +1,13 @@
-.pc/
+/node_modules
+/npm-debug.log
+/package-lock.json
+/test*.html
+.tern-*
+*~
+*.swp
+.idea
+*.iml
+/lib/codemirror.js
+/addon/runmode/runmode-standalone.js 
+/addon/runmode/runmode.node.js
+**/.DS_Store

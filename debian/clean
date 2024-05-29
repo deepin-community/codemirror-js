@@ -1,1 +1,3 @@
+addon/runmode/runmode-standalone.js
+addon/runmode/runmode.node.js
 lib/codemirror.js
