@@ -1,2 +1,3 @@
 requirejs-demo-use-package.patch
 fix-for-rollup-3.patch
+CVE-2025-6493.patch

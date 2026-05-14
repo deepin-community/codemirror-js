@@ -1,3 +1,10 @@
+codemirror-js (5.65.0+~cs5.83.9-3deepin1) unstable; urgency=medium
+
+  * Fix CVE-2025-6493: fix inefficient regular expression complexity in
+    Markdown mode (ReDoS)
+
+ -- deepin-ci-robot <packages@deepin.org>  Thu, 14 May 2026 22:34:47 +0800
+
 codemirror-js (5.65.0+~cs5.83.9-3) unstable; urgency=medium
 
   * Declare compliance with policy 4.6.2
